@@ -23,6 +23,7 @@ The AQI Prediction System is a Machine Learning-based web application that predi
 
 ## Project Structure
 
+```text
 AQI-Prediction-System/
 │
 ├── app.py                  # Streamlit web application
@@ -30,7 +31,9 @@ AQI-Prediction-System/
 ├── features.pkl            # Feature information
 ├── requirements.txt        # Required dependencies
 ├── AQI_Prediction.ipynb    # Model development notebook
-└── README.md
+└── README.md               # Project documentation
+```
+
 
 ## Installation
 
